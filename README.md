@@ -2,5 +2,5 @@
 web programming
 
 
-ayu
-itha
+c++
+mysql
